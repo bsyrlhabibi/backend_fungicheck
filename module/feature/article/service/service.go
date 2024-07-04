@@ -22,7 +22,7 @@ func (s *ArticleService) CreateArticle(articleData *entities.ArticleModels) (*en
 		Title:   articleData.Title,
 		Photo:   articleData.Photo,
 		Content: articleData.Content,
-		Author:  "FASTFOODUCATE",
+		Author:  "FUNGICHECK",
 	}
 	createdArticle, err := s.repo.CreateArticle(value)
 	if err != nil {
