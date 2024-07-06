@@ -1,8 +1,8 @@
 package database
 
 import (
-	"fastfooducate/config"
 	"fmt"
+	"fungicheck/config"
 	"os"
 
 	"gorm.io/driver/postgres"

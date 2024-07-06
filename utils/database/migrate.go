@@ -1,7 +1,7 @@
 package database
 
 import (
-	"fastfooducate/module/entities"
+	"fungicheck/module/entities"
 
 	"gorm.io/gorm"
 )

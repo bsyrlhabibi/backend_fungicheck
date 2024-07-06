@@ -2,7 +2,7 @@ package upload
 
 import (
 	"context"
-	"fastfooducate/config"
+	"fungicheck/config"
 	"time"
 
 	"github.com/cloudinary/cloudinary-go"

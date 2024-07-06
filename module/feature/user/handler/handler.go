@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"fastfooducate/module/feature/user/domain"
-	"fastfooducate/utils/response"
+	"fungicheck/module/feature/user/domain"
+	"fungicheck/utils/response"
 	"strconv"
 
 	"github.com/gofiber/fiber/v2"

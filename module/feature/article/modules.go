@@ -1,14 +1,14 @@
 package article
 
 import (
-	"fastfooducate/module/feature/article/handler"
-	"fastfooducate/module/feature/article/repository"
-	"fastfooducate/module/feature/article/service"
-	"fastfooducate/module/feature/middleware"
-	"fastfooducate/utils/token"
+	"fungicheck/module/feature/article/handler"
+	"fungicheck/module/feature/article/repository"
+	"fungicheck/module/feature/article/service"
+	"fungicheck/module/feature/middleware"
+	"fungicheck/utils/token"
 
-	"fastfooducate/module/feature/article/domain"
-	user "fastfooducate/module/feature/user/domain"
+	"fungicheck/module/feature/article/domain"
+	user "fungicheck/module/feature/user/domain"
 
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"

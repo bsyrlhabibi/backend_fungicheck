@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"fastfooducate/module/feature/auth/domain"
-	"fastfooducate/utils/response"
-	"fastfooducate/utils/validator"
+	"fungicheck/module/feature/auth/domain"
+	"fungicheck/utils/response"
+	"fungicheck/utils/validator"
 
 	"github.com/gofiber/fiber/v2"
 )

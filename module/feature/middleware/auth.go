@@ -1,9 +1,9 @@
 package middleware
 
 import (
-	users "fastfooducate/module/feature/user/domain"
-	"fastfooducate/utils/response"
-	"fastfooducate/utils/token"
+	users "fungicheck/module/feature/user/domain"
+	"fungicheck/utils/response"
+	"fungicheck/utils/token"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt"

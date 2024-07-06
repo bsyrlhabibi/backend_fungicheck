@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"fastfooducate/module/entities"
-	"fastfooducate/module/feature/user/domain"
+	"fungicheck/module/entities"
+	"fungicheck/module/feature/user/domain"
 
 	"gorm.io/gorm"
 )

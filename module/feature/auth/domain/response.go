@@ -1,7 +1,7 @@
 package domain
 
 import (
-	"fastfooducate/module/entities"
+	"fungicheck/module/entities"
 	"time"
 )
 

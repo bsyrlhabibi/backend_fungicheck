@@ -2,10 +2,10 @@ package service
 
 import (
 	"errors"
-	"fastfooducate/module/entities"
-	"fastfooducate/module/feature/auth/domain"
-	"fastfooducate/utils/hash"
-	"fastfooducate/utils/token"
+	"fungicheck/module/entities"
+	"fungicheck/module/feature/auth/domain"
+	"fungicheck/utils/hash"
+	"fungicheck/utils/token"
 )
 
 type AuthService struct {

@@ -1,14 +1,14 @@
 package auth
 
 import (
-	"fastfooducate/module/feature/auth/domain"
-	utils "fastfooducate/utils/hash"
-	"fastfooducate/utils/token"
+	"fungicheck/module/feature/auth/domain"
+	utils "fungicheck/utils/hash"
+	"fungicheck/utils/token"
 	"os"
 
-	"fastfooducate/module/feature/auth/handler"
-	"fastfooducate/module/feature/auth/repository"
-	"fastfooducate/module/feature/auth/service"
+	"fungicheck/module/feature/auth/handler"
+	"fungicheck/module/feature/auth/repository"
+	"fungicheck/module/feature/auth/service"
 
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"

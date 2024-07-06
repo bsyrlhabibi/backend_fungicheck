@@ -1,4 +1,4 @@
-module fastfooducate
+module fungicheck
 
 go 1.21.1
 

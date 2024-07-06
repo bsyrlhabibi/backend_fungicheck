@@ -1,11 +1,11 @@
 package handler
 
 import (
-	"fastfooducate/module/entities"
-	"fastfooducate/module/feature/article/domain"
-	"fastfooducate/utils/response"
-	"fastfooducate/utils/upload"
-	"fastfooducate/utils/validator"
+	"fungicheck/module/entities"
+	"fungicheck/module/feature/article/domain"
+	"fungicheck/utils/response"
+	"fungicheck/utils/upload"
+	"fungicheck/utils/validator"
 	"mime/multipart"
 	"strconv"
 

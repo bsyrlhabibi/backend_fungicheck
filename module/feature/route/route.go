@@ -1,11 +1,11 @@
 package route
 
 import (
-	"fastfooducate/module/feature/article" // Pastikan ini sesuai dengan struktur folder Anda
-	"fastfooducate/module/feature/auth"    // Pastikan ini sesuai dengan struktur folder Anda
-	users "fastfooducate/module/feature/user"
-	user "fastfooducate/module/feature/user/domain"
-	"fastfooducate/utils/token"
+	"fungicheck/module/feature/article"
+	"fungicheck/module/feature/auth"
+	users "fungicheck/module/feature/user"
+	user "fungicheck/module/feature/user/domain"
+	"fungicheck/utils/token"
 
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"

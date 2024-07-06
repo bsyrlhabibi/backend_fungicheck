@@ -1,10 +1,10 @@
 package user
 
 import (
-	"fastfooducate/module/feature/user/domain"
-	"fastfooducate/module/feature/user/handler"
-	"fastfooducate/module/feature/user/repository"
-	"fastfooducate/module/feature/user/service"
+	"fungicheck/module/feature/user/domain"
+	"fungicheck/module/feature/user/handler"
+	"fungicheck/module/feature/user/repository"
+	"fungicheck/module/feature/user/service"
 
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"

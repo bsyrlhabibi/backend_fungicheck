@@ -1,13 +1,13 @@
 package main
 
 import (
-	"fastfooducate/config"
-	"fastfooducate/module/feature/middleware"
-	"fastfooducate/module/feature/route"
-	"fastfooducate/module/feature/user/repository"
-	"fastfooducate/module/feature/user/service"
-	"fastfooducate/utils/database"
-	"fastfooducate/utils/token"
+	"fungicheck/config"
+	"fungicheck/module/feature/middleware"
+	"fungicheck/module/feature/route"
+	"fungicheck/module/feature/user/repository"
+	"fungicheck/module/feature/user/service"
+	"fungicheck/utils/database"
+	"fungicheck/utils/token"
 	"os"
 
 	"github.com/gofiber/fiber/v2"
